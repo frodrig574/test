@@ -24,9 +24,10 @@ tiene dos CRUD, el de roles y el de usuarios
 se deben crear primero los roles, esta validado para no permitir ingresar ningun usuario hasta que este sea creado, al eliminar un rol, eliminara al usuario que tenga ese rol asignado, siempre y cuando el usuario solo tenga ese rol asignado.
 
 las validaciones estan realizadas con html5, libreria de codeinigter from_validation y ajax
-el formulario esta realizado con el helper form
+los formularios estan realizados, con el helper form
 se crearon aparte 4 helper, para el header y el footer de la aplicación
 y 1 helper para validar el correo, para los casos de modificación del crud de usuario
+
 plantilla realizada con bootstrap y jquery
 
 imagenes editadas y creadas con GIMP(software libre)
