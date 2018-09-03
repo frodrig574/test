@@ -33,6 +33,3 @@ plantilla realizada con bootstrap y jquery
 
 imagenes editadas y creadas con GIMP(software libre)
 la firma KOC, es un proyecto que estoy desarrollando, por si se genera duda, todo el codigo, imagenes y diseño fueron creados por mi persona
-
-la estructura basica de un CRUD, lo modifique, para entretenerme un poco, como fue dicho en la publicidad, se busca pasión por el codigo, y quise demostrar un poco de toda la pasión que tengo.
-sin mas que acotar espero les guste...
